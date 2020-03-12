@@ -1,0 +1,39 @@
+.query {
+    float: left;
+    width: 100%;
+    height: auto;
+    background-color: #E3E1E0;
+}
+
+.res {
+    float: left;
+    width: auto;
+    height: auto;
+    margin: 1%;
+    text-align: center;
+}
+.res h4{
+    color: green;
+}
+#remove {
+    background: none;
+    color: black;
+    font-weight: bold;
+    border: none;
+}
+h3.red{
+    margin: 10% 0 10% 5%;
+}
+.red {
+    color: red;
+}
+#buy{
+    margin-top: 7%;
+    font-size: 22px;
+    padding: 1%;
+    background-color: white;
+    border: 2px black solid;
+}
+#buy:hover{
+    border-radius: 20px;
+}

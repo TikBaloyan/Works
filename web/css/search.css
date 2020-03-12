@@ -1,0 +1,34 @@
+#search {
+    float: left;
+    width: 100%;
+    height: auto;
+    border: 0px green solid;
+    background-color: #E3E1E0;
+}
+
+.res {
+    float: left;
+    height: auto;
+    border: 0px red solid;
+    margin: 1%;
+    text-align: center;
+}
+
+.res h4 {
+    color: green;
+}
+
+h3.red {
+    margin: 10% 0 10% 5%;
+}
+
+.red {
+    color: red;
+}
+
+#tocart {
+    background: none;
+    color: black;
+    font-weight: bold;
+    border: none;
+}

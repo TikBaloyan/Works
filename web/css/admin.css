@@ -1,0 +1,130 @@
+#bod {
+    background-color: lightgray;
+    margin: 1%;
+}
+
+#bod h1 {
+    text-align: center;
+    color: black;
+}
+
+#header {
+    float: left;
+    border: 0px black solid;
+    width: 70%;
+    height: auto;
+}
+
+#header h2 {
+    color: #c4302b;
+    font-weight: bold;
+}
+
+#header hr {
+    background-color: #16222A;
+    height: 2px;
+}
+
+.sub {
+    border-radius: 10px;
+    text-align: center;
+    background-color: white;
+    color: #16222A;
+    border: 1px black solid;
+}
+
+.sub:hover {
+    transition: background-color 2s;
+    background-color: black;
+    transition: color 2s;
+    color: white;
+    font-weight: bold;
+}
+
+td {
+    text-align: center;
+    padding: 7px;
+    border: 2px black solid;
+    width: auto;
+    height: auto;
+}
+
+#bolt {
+    font-weight: bold;
+    color: red;
+}
+
+#info {
+    float: left;
+    border: 0px red solid;
+    width: 30%;
+    height: auto;
+    padding-left: 4%;
+    font-weight: bold;
+}
+
+#info h2 {
+    /*text-align: center;*/
+    color: #c4302b;
+    font-weight: bold;
+}
+
+p.red {
+    font-size: 18px;
+    color: red;
+    font-weight: bold;
+}
+
+p.green {
+    font-size: 18px;
+    color: green;
+    font-weight: bold;
+
+}
+
+input.num {
+    width: 100px;
+}
+
+input {
+    padding-left: 2px;
+}
+
+#ai {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+
+#ai:hover {
+    text-decoration: underline;
+}
+
+#welcome {
+    width: 100%;
+    height: auto;
+    float: left;
+}
+
+#welcomeh1 {
+    width: 90%;
+    height: auto;
+    float: left;
+}
+
+#logout {
+    width: 10%;
+    height: auto;
+    float: left;
+    text-align: center;
+}
+
+#lout {
+    margin-top: 5%;
+    background: none;
+    color: black;
+    padding: 2px;
+    border: none;
+    font-weight: bold;
+}

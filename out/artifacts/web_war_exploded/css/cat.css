@@ -1,0 +1,30 @@
+.query{
+    float: left;
+    width: 100%;
+    height: auto;
+    background-color: #E3E1E0;
+
+}
+.res{
+    float: left;
+    width: auto;
+    height: auto;
+    margin: 1%;
+    text-align: center;
+}
+.res form{
+    display: inline;
+}
+.res h4{
+    color: green;
+}
+.src{
+    width: 230px;
+    height: 210px;
+}
+#tocart{
+    background: none;
+    color: black;
+    font-weight: bold;
+    border: none;
+}

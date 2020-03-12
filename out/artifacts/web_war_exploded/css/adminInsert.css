@@ -1,0 +1,134 @@
+#bod {
+    background-color: lightgray;
+    margin: 1%;
+}
+
+#admin {
+    float: left;
+    width: 80%;
+    height: auto;
+
+}
+
+#admin hr {
+    background-color: #16222A;
+    height: 2px;
+}
+
+#admin h2 {
+    color: #c4302b;
+    font-weight: bold;
+}
+
+p.red {
+    font-size: 18px;
+    color: red;
+    font-weight: bold;
+
+}
+
+p.green {
+    font-size: 18px;
+    color: green;
+    font-weight: bold;
+}
+
+.sub {
+    border-radius: 10px;
+    text-align: center;
+    background-color: white;
+    color: #16222A;
+    border: 1px black solid;
+}
+
+.sub:hover {
+    transition: background-color 2s;
+    background-color: black;
+    transition: color 2s;
+    color: white;
+    font-weight: bold;
+}
+
+input.num {
+    width: 100px;
+}
+
+input {
+    padding-left: 2px;
+}
+
+#adminedit {
+    float: left;
+    width: 100%;
+}
+
+.sub {
+    border-radius: 10px;
+    text-align: center;
+    background-color: white;
+    color: #16222A;
+    border: 1px black solid;
+}
+
+.sub:hover {
+    transition: background-color 2s;
+    background-color: black;
+    transition: color 2s;
+    color: white;
+    font-weight: bold;
+}
+
+input.num {
+    width: 100px;
+}
+
+input {
+    padding-left: 2px;
+}
+
+#admintable {
+    border: 2px red solid;
+}
+
+#bolt {
+    font-weight: bold;
+    color: red;
+}
+
+td {
+    text-align: center;
+    padding: 7px;
+    border: 2px black solid;
+    width: auto;
+    height: auto;
+}
+
+#back {
+    float: left;
+    border: 0px red solid;
+    width: 20%;
+    height: auto;
+    text-align: center;
+    font-weight: bold;
+    box-sizing: border-box;
+}
+
+#back a {
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+
+#back a:hover {
+    text-decoration: underline;
+}
+
+#lout {
+    margin-top: 5%;
+    background: none;
+    color: black;
+    padding: 2px;
+    border: none;
+    font-weight: bold;
+    font-size: 20px;
+}

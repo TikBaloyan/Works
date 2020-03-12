@@ -1,0 +1,228 @@
+#contain {
+    float: left;
+    border: 0px solid red;
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+}
+
+#head {
+    position: sticky;
+    top: 0;
+    left: 0;
+    float: left;
+    border: 0px solid black;
+    width: 100%;
+    z-index: 99;
+    background: -webkit-linear-gradient(59deg, #3A6073, #16222A);
+    background: linear-gradient(59deg, #3A6073, #16222A);
+    box-sizing: border-box;
+}
+
+#head1 {
+    float: left;
+    width: 85%;
+    height: auto;
+}
+
+#logo {
+    float: left;
+    width: 15%;
+    height: auto;
+}
+
+#logo img {
+    width: 50%;
+    height: auto;
+    margin-left: 20%;
+}
+
+#searchbar {
+    float: left;
+    width: 60%;
+    height: auto;
+    padding: 0.5%;
+    border: 0px black solid;
+    margin-left: 5%;
+    box-sizing: border-box;
+}
+
+#searchtext {
+    float: left;
+    width: 80%;
+    height: auto;
+}
+
+#searchtext input {
+    width: 100%;
+    height: auto;
+    padding: 1%;
+    box-sizing: border-box;
+    border: 2px grey solid;
+}
+
+#searchbtn {
+    float: left;
+    width: 20%;
+    height: auto;
+    box-sizing: border-box;
+}
+
+#searchbtn button {
+    width: 80%;
+    height: auto;
+    background-color: black;
+    color: white;
+    padding: 3%;
+    border: none;
+}
+
+#shopping {
+    float: left;
+    border: 0px green solid;
+    padding: 1%;
+    margin-left: 5%;
+    width: 15%;
+    height: auto;
+    box-sizing: border-box;
+}
+
+#shopping span {
+    font-weight: bold;
+    color: white;
+    vertical-align: middle;
+    font-size: 25px;
+}
+
+#shopping span:hover {
+    text-decoration: underline;
+}
+
+#head2 {
+    float: left;
+    width: 85%;
+    height: auto;
+    box-sizing: border-box;
+}
+
+#head2 li a {
+    color: white;
+}
+
+#head2 li a:hover {
+    text-decoration: underline;
+}
+
+#head2 ul {
+    margin-left: 1%;
+}
+
+.justify-content-center {
+    justify-content: left !important;
+}
+
+.nav-item {
+    margin-left: 3%;
+}
+
+.dropdown-menu {
+    background: -webkit-linear-gradient(59deg, #3A6073, #16222A);
+    background: linear-gradient(59deg, #3A6073, #16222A);
+}
+
+.dropdown-item:hover {
+    background: -webkit-linear-gradient(59deg, #3A6073, #16222A);
+    background: linear-gradient(59deg, #3A6073, #16222A);
+}
+
+#center {
+    float: left;
+    border: 0px solid green;
+    width: 100%;
+    height: auto;
+    background-color: #E3E1E0;
+}
+
+#slide {
+    float: left;
+    border: 0px red solid;
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+#slide img {
+    width: 60%;
+    height: 300px;
+}
+
+.col-sm img {
+    width: 100%;
+    height: 350px;
+}
+
+.col-sm {
+    text-align: center;
+}
+
+.col-sm a {
+    color: black;
+}
+
+.col-sm img:hover {
+    opacity: 0.6;
+}
+
+#products {
+    float: left;
+    width: 100%;
+    height: auto;
+    border: 0px black solid;
+    padding-top: 2%;
+}
+
+#mail span {
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+#mail {
+    float: left;
+    width: 100%;
+    height: auto;
+    background-color: #E3E1E0;
+    border-top: 2px white solid;
+    text-align: center;
+
+}
+
+#text {
+    float: left;
+    width: 50%;
+    padding-top: 0.6%;
+}
+
+#bar {
+    float: left;
+    width: 50%;
+    text-align: left;
+}
+
+#sub {
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+#sub:hover {
+    border-radius: 10px;
+    border: 1px black solid;
+
+}
+
+#foot {
+    float: left;
+    width: 100%;
+    height: auto;
+}
